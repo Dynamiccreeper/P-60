@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "teachers-attendence",
+    "slug": "snack-412b309d-20c8-443e-b966-b161432ed13f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.godxoverlord.snack412b309d20c8443eb966b161432ed13f"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
